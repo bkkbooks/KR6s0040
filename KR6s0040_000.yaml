@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0040/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 迴向文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2848.xml
+    old_id: T85n2848
+hash: sha256:ee3d09a3069752353468a6bb6382866ad3c482a3d85435410630dcbf851ca925
